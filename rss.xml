@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+	<rss version="2.0">
+	<channel>
+		<title>Test for Feedly</title>
+		<link>https://example.com</link>
+		<description>
+			My RSS Feed Test
+		</description>
+		<lastBuildDate>Last build date</lastBuildDate>
+		<language>ja</language>
+
+
+		<item>
+			<title>ページのタイトル</title>
+			<link>https://example.com</link>
+			<description>ページの説明文</description>
+			<pubDate>pubDate</pubDate>
+		</item>
+
+
+	</channel>
+</rss>
