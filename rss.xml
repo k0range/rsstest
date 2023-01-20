@@ -16,6 +16,22 @@
 			<description>ページの説明文</description>
 			<pubDate>pubDate</pubDate>
 		</item>
+		
+		<item>
+			<title>ページのタイトル2</title>
+			<link>https://recofeed.example.com/jump?id=asg8Sd5</link>
+			<description>
+				The quick,
+				brown fox
+				jumps ove...
+				
+				 - Recommended by Recofeed
+				   この記事を5段階で評価することでより良いおすすめを提供できます:
+				   https://recofeed.example.com/rate?id=asg8Sd5
+			</description>
+			<pubDate>pubDate</pubDate>
+		</item>
+
 
 
 	</channel>
