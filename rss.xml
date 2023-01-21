@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<rss version="2.0">
 	<channel>
-		<title>Test for Feedly</title>
+		<title>Recofeed</title>
 		<link>https://example.com</link>
 		<description>
 			My RSS Feed Test
@@ -23,11 +23,7 @@
 			<description>
 				The quick,
 				brown fox
-				jumps ove...
-				-------------------------
-				 - Recommended by Recofeed
-				   この記事を5段階で評価することでより良いおすすめを提供できます:
-				   https://recofeed.example.com/rate?id=asg8Sd5
+				jumps over...
 			</description>
 			<pubDate>pubDate</pubDate>
 		</item>
